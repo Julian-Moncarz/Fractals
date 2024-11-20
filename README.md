@@ -10,7 +10,7 @@ Both are visualized using Python with `matplotlib` and `numpy`.
 
 The Mandelbrot Set is a famous fractal defined by the recursive equation:
 
-\[ Z_{n+1} = Z_n^2 + C \]
+$$Z_{n+1} = Z_n^2 + C$$
 
 where \( C \) is a complex constant, and the iteration continues until \(|Z| > 2\). Points within the Mandelbrot set never escape this boundary.
 
