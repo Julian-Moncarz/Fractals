@@ -28,8 +28,7 @@ The Broccoli Fractal is an iterative geometric structure inspired by the fractal
 
 ## How to Run
 
-1. Ensure you have Python installed with the following libraries:
+1. Ensure you have Python installed with the following libraries (use `requirements.txt`):
    - `numpy`
    - `matplotlib`
-You can do this using the `requirements.txt` file to download the respective version of each library.
 2. Run the respective Python scripts to generate the images.
